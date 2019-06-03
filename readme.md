@@ -6,10 +6,17 @@
 		Create a databse and add database details into "User.php".
 	</li>
 	<li>
-		Import "db_users.sql" into database 
+		Import "db_users.sql" into database. It will create a user table where user info will be stored.
 	</li>
 	<li>
 		Get client id and secret key from google and add it to "gpConfig" file.
 	</li>
+	<li>
+		Index.php is main page load it , You will have login with google button there.
+	</li>
 </ol>
+
+##Demo here
+
+<a href="https://86leaves.com/knowledge-base/login-with-google-api-php-updated-2019/?preview=true" target="_blank">Check Demo Here</a>
 
