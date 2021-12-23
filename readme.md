@@ -16,7 +16,5 @@
 	</li>
 </ol>
 
-##Demo here
 
-<a href="https://86leaves.com/knowledge-base/login-with-google-api-php-updated-2019/?preview=true" target="_blank">Check Demo Here</a>
 
